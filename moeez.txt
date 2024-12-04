@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main is the branch for merge change in 
-=======
-main is the branch for
->>>>>>> main_moeez
+main is the brancxyz
